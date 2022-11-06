@@ -5,8 +5,8 @@
 
   ## Description 
   ```md
-  I created a text editor that runs in the browser. The app is a single page application that meets pwa  criteria. The application 
-  also functions offline.
+  I created a text editor that runs in the browser. The app is a single page application that meets pwa criteria. 
+  The application also functions offline.
   ```
   ## Table of Contents
  * [Description](#description)
@@ -24,8 +24,9 @@
 
   ## About
   ```md
-  For this application I used indexedDB as the database. I used webpack to bundle the front end . I also used workbox to create a 
-  service worker that caches static assets. Finally I deployed the finished product to Heroku for  deployment.
+  For this application I used indexedDB as the database. I used webpack to bundle the front end . 
+  I also used workbox to create a service worker that caches static assets. Finally I deployed the 
+  finished product to Heroku for  deployment.
 ```
   ## User Story
   ```md
@@ -80,7 +81,7 @@ https://user-images.githubusercontent.com/102045473/200180986-2e4ddc3b-db11-4cf6
   * Then you have to open the root directory in your terminal. 
   * run npm install to install all dependencies.  
   * run the command npm run build.  
-  * run npm run start 
+  * npm run start 
   * open your local host and click the install button. 
   
   ## Link to Deployed Heroku app
